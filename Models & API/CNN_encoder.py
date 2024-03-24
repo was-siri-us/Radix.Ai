@@ -6,8 +6,6 @@ import numpy as np
 
 
 class CNN_Encoder(tf.keras.Model):
-    # Since you have already extracted the features and dumped it using pickle
-    # This encoder passes those features through a Fully connected layer
     def __init__(self, model_path, model_name, pop_conv_layers, encoder_layers, tags_threshold, tags_embeddings=None,
                  finetune_visual_model=False, num_tags=105):
         super(CNN_Encoder, self).__init__()
