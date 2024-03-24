@@ -1,6 +1,6 @@
 # Radix.Ai
 
-This project was developed by us (Team Clover) as part of the[HackSavvy'24] (https://mgit.ac.in/hacksavvy/) National-level hackathon hosted by [Mahatma Gandhi Institute of Technology] (https://mgit.ac.in/), where we secured 5th place🏅 
+This project was developed by us (Team Clover) as part of the [ HackSavvy'24 ] ( https://mgit.ac.in/hacksavvy/ ) National-level hackathon hosted by [ Mahatma Gandhi Institute of Technology ] ( https://mgit.ac.in/ ), where we secured 5th place🏅 
 
 Our Project aims to assist Radilogists diagnose diseases accurately and efficiently by:
 
