@@ -35,7 +35,7 @@ This is a Web application made using the MERN stack.
 ![image](https://raw.githubusercontent.com/was-siri-us/Radix.Ai/main/frontend/preview/Screenshot%202024-03-20%20173001.png)
 ![image](https://raw.githubusercontent.com/was-siri-us/Radix.Ai/main/frontend/preview/Screenshot%202024-03-20%20173017.png)
 ### Report Generation
-![image](https://raw.githubusercontent.com/was-siri-us/Radix.Ai/main/frontend/preview/Screenshot%2024-03-21%102347.png)
+![image](https://raw.githubusercontent.com/was-siri-us/Radix.Ai/main/frontend/preview/Screenshot%202024-03-21%20102347.png)
 
 
 
