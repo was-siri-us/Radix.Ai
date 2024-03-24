@@ -4,15 +4,15 @@ This project was developed by us (Team Clover) as part of the [HackSavvy'24](htt
 
 ## Introduction
 
-Our Project aims to assist Radilogists diagnose diseases accurately and efficiently by:
+Our Project aims to assist Radiologists diagnose diseases accurately and efficiently by:
 
-1.Leveraging Deep Learning to identify pulmonary abnormalities.  
+1. Leveraging Deep Learning to identify pulmonary abnormalities.  
 
-2.Utilizing Grad-CAM to localize and visualize regions corresponding to the identified abnormalities  
+2. Utilizing Grad-CAM to localize and visualize regions corresponding to the identified abnormalities  
 
-3.Implementing transformer models to generate detailed text radiology reports based on the analyzed chest X-ray image.  
+3. Implementing transformer models to generate detailed text radiology reports based on the analyzed chest X-ray image.  
 
-4.Integrating the system into a user-friendly Web Application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack and Flask APIs, which Radiologists can access for streamlined diagnosis and reporting processes.  
+4. Integrating the system into a user-friendly Web Application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack and Flask APIs, which Radiologists can access for streamlined diagnosis and reporting processes.  
 
 ## Dataset
 ### ChestX-ray14
