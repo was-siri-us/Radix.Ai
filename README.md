@@ -1,4 +1,4 @@
-#Radix.Ai
+# Radix.Ai
 
 This project was developed by us (Team Clover) as part of the [https://mgit.ac.in/hacksavvy/](HackSavvy'24 )National-level hackathon hosted by [https://mgit.ac.in/](Mahatma Gandhi Institute of Technology), where we secured 5th place🏅 
 
