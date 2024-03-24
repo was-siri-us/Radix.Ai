@@ -25,7 +25,17 @@ IU X-ray (Demner-Fushman et al., 2016) is a set of chest X-ray images paired wit
 ## Workflow
 ![image](https://github.com/was-siri-us/Radix.Ai/assets/116163817/1f4adbe3-3bc8-46a7-995f-c9421e33bc65)
 
-## User Interface
+## Web Application
+
+This is a Web application made using the MERN stack. 
+- The Login and Register are made secure by using password hashing.
+- Incorporates JSON Web Token for authentication after login.
+
+
+![image](https://raw.githubusercontent.com/was-siri-us/Radix.Ai/main/frontend/preview/Screenshot%202024-03-20%20173001.png)
+![image](https://raw.githubusercontent.com/was-siri-us/Radix.Ai/main/frontend/preview/Screenshot%202024-03-20%20173017.png)
+### Report Generation
+![image](https://raw.githubusercontent.com/was-siri-us/Radix.Ai/main/frontend/preview/Screenshot%2024-03-21%102347.png)
 
 
 
