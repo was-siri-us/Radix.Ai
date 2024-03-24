@@ -22,6 +22,8 @@ IU X-ray (Demner-Fushman et al., 2016) is a set of chest X-ray images paired wit
 ## Workflow
 ![image](https://github.com/was-siri-us/Radix.Ai/assets/116163817/1f4adbe3-3bc8-46a7-995f-c9421e33bc65)
 
+## User Interface
+
 
 
 
