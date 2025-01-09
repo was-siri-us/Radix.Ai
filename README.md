@@ -43,5 +43,7 @@ This is a Web application made using the MERN stack.
 
 ![e3](https://github.com/was-siri-us/Radix.Ai/assets/116163817/74ec9814-2999-414d-b102-08207188394a)
 
-
+**Reference Papers**
+1. https://arxiv.org/abs/1610.02391
+2. https://www.researchgate.net/publication/371528203_Automated_Radiology_Report_Generation_Using_Transformers
 
